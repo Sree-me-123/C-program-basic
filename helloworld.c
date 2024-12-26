@@ -3,7 +3,7 @@ int main()
 {
     printf("hello world \n");
     
-    // this is a single line comment
+    // .this is a single line comment
     /*it is a 
     multiline comment */
      
